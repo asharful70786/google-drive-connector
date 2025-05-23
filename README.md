@@ -9,8 +9,8 @@ This is a web application that allows users to connect their **Google Drive** ac
 - ✅ Access user's Google Drive after permission
 - ✅ Display file & folder list with icons
 - ✅ Preview supported files (PDFs, images, etc.)
-- ✅ Download files (if enabled)
+- ✅ Download files
 - ✅ Responsive design for all devices
-- ✅ Logout functionality
+
 
 ---
